@@ -2,8 +2,6 @@
 
 ## New Developer | Wants to study software engineering.
 
-<font color="green">Powered with coffee! <code /> </font>
-
 ### Reach Out To Me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/telegram.svg" align="left" />][telegram]
@@ -18,6 +16,3 @@ Discord: anz0#5626
 Python
 HTML
 CSS
-
-
-[telegram]: https://t.me/Anzoix
