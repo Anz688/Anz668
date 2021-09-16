@@ -11,10 +11,15 @@
 
 ### Personal Information
 ## I'm online at Discord every day, so here is my Discord.
-Discord: anz0#5626
+•Discord: anz0#5626
+
+
+
 ## Coding languages I know(not expert)
-Python
-HTML
-CSS
+•Python
+
+•HTML
+
+•CSS
 
 [telegram]: https://t.me/Anzoix
