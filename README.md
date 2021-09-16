@@ -16,3 +16,5 @@ Discord: anz0#5626
 Python
 HTML
 CSS
+
+[telegram]: https://t.me/Anzoix
