@@ -12,7 +12,7 @@ Welcome to my Github page! I am Anzoix who studies in High School now [My Websit
 - Taking online courses for programming 
 
 
-
+<br />
 
 #### :computer: Programming languages: 
 <p>
