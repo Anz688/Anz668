@@ -12,10 +12,7 @@ Welcome to my Github page! I am Anzoix who studies in High School now [My Websit
 - Taking online courses for programming 
 
 
-#### Things I do on a daily basis:
-- Watching courses
-- Playing online games, loves nintendo games too!
-- Little bit of exercise 
+
 
 #### :computer: Programming languages: 
 <p>
