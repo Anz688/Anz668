@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anzoix01@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anzoix)
 
+
 Welcome to my Github page! I am Anzoix who studies in High School now [My Website](http://www.anzoix.me/) and my discord anz0#5595
 
 ####  Things I am currently working on: 
@@ -26,3 +27,7 @@ Welcome to my Github page! I am Anzoix who studies in High School now [My Websit
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 </p>
+
+<a href="https://discord.com/users/671029674305912854">
+    <img src="https://lanyard-profile-readme.vercel.app/api/671029674305912854" align="right" />
+  </a>
