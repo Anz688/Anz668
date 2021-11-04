@@ -1,23 +1,11 @@
-###  👋 
-### I'm Anzoix
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+<div align="center" width="50">
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzoix)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anzoix01@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anzoix)
-
-
-Welcome to my Github page! I am Anzoix who studies in High School now [My Website](http://www.anzoix.me/) and my discord anz0#5595
-
-####  Things I am currently working on: 
-- Finish school and start a good university
-- Taking online courses for programming 
-
-
-<br />
-
-#### :computer: Programming languages: 
+#### :computer: **ABOUT ME**: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Anzoix&show_icons=true&hide_border=true" />
+
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -28,6 +16,29 @@ Welcome to my Github page! I am Anzoix who studies in High School now [My Websit
 
 </p>
 
-<a href="https://discord.com/users/671029674305912854">
-    <img src="https://lanyard-profile-readme.vercel.app/api/671029674305912854" align="right" />
-  </a>
+
+
+<div align="center">
+
+That's my Github profile. <br>
+If want to ask anything
+<a href="mailto:anzoix@hotmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<a href="https://anzoix.me/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anzoix&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anzoix's Github Stats" />
+</a>
+
+---
+
+<i>Follow me:</i><br>
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzoix)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anzoix)
+
+</div>
