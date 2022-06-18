@@ -31,7 +31,7 @@ If want to ask anything
 <div align="center">
 
 <a href="https://anzoix.me/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anzoix&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anzoix's Github Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/320c73f2c79a1a8233fe3b4b6849d51022743172/github-contribution-grid-snake.svg" alt="Anzoix's Github Stats" />
 </a>
 
 ---
